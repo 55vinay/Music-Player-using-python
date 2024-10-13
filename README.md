@@ -10,6 +10,12 @@ This is a simple music player built using Python's `Tkinter` library for the GUI
 
 ## Prerequisites 🛠️
 Before running the music player, ensure you have the following installed:
+- Python 3.x
+- `pygame` library
+
+To install `pygame`, run:
+```bash
+pip install pygame
 
 
 
