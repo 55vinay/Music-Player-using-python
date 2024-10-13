@@ -7,6 +7,8 @@ This is a simple music player built using Python's `Tkinter` library for the GUI
   ![1](https://github.com/user-attachments/assets/8a21afbd-8176-4790-ad93-ba2b81b874fe)
 - Play, pause, stop, and resume songs.
 ![2](https://github.com/user-attachments/assets/5dff29d8-eb1f-4d46-a81f-4d9c1162b6ee)
+![3](https://github.com/user-attachments/assets/9659a57c-8c8e-4115-ad80-49097827c5e7)
+![4](https://github.com/user-attachments/assets/f8825341-d4f0-41fb-a6ce-a0570f95f393)
 - Easy-to-use graphical interface.
 - Scrollable playlist for easy song selection.
 
