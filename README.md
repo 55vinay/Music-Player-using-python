@@ -18,6 +18,9 @@ This is a simple music player built using Python's `Tkinter` library for the GUI
 - Stop Song: Click "Stop" to stop the song.
 ![3](https://github.com/user-attachments/assets/9659a57c-8c8e-4115-ad80-49097827c5e7)
 
+## Contributing 🤝
+Feel free to fork this project, make improvements, and submit pull requests. Contributions are welcome!
+
 ## Prerequisites 🛠️
 Before running the music player, ensure you have the following installed:
 - Python 3.x
@@ -25,13 +28,7 @@ Before running the music player, ensure you have the following installed:
 
 To install `pygame`, run:
 ```bash
-pip install pygame
-
-## How to Use 🎧
-- Load Directory: Click on "Load Directory" to choose the folder containing your music files.
-- Play Song: Select a song from the playlist and click "Play" to start playing.
-- Pause/Resume: Use "Pause" to pause the current song and "Resume" to continue playback.
-- Stop Song: Click "Stop" to stop the song.
+- pip install pygame
 
 
 
